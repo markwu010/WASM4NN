@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/onnx/models/blob/main/vision/classification/efficientnet-lite4/model/efficientnet-lite4-11.onnx
+HostUrl=https://media.githubusercontent.com/media/onnx/models/main/vision/classification/efficientnet-lite4/model/efficientnet-lite4-11.onnx
